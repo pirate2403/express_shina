@@ -1,0 +1,9 @@
+.categoryLayout {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+
+  & > button {
+    padding: 8px;
+  }
+}

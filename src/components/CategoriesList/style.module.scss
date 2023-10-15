@@ -1,0 +1,9 @@
+.categoriesList {
+  &_offset {
+    margin-left: 32px;
+  }
+
+  &__listItem {
+    cursor: pointer;
+  }
+}

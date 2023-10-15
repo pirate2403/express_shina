@@ -1,0 +1,9 @@
+.categoriesList {
+  width: 500px;
+  padding: 2rem;
+  border: 1px solid;
+
+  &__item {
+    cursor: pointer;
+  }
+}
